@@ -1,0 +1,8 @@
+site_name: AgroChain
+theme:
+  name: material
+nav:
+  - Introduction: index.md
+  - User Authentication : auth.md
+  - User Profiles : profile.md
+  - Product Listing Management: post.md
